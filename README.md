@@ -26,7 +26,7 @@ I believe that building great software is a collaborative effort, and I strive t
 <h2 align="left">📫 Connect with me:</h2>
 <p>I'm always interested in connecting with other developers, entrepreneurs, and tech enthusiasts. If you'd like to get in touch, you can find me on:</p>
 <p align="left">
-<a href="https://linkedin.com/in/amparo-cardoso-bosch-5b9478212/" target= '_blanck'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amparo-cardoso-bosch-5b9478212/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amparo-cardoso-bosch/" target= '_blanck'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amparo-cardoso-bosch-5b9478212/" height="30" width="40" /></a>
 <a href="https://discord.gg/#7463" target= '_blanck'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7463" height="30" width="40" /></a>
 </p>
 <h3>📧 Email: amparocardosobosch@gmail.com</h3>
