@@ -15,7 +15,7 @@ I specialize in building custom web applications using modern web development to
 <h3 align="left">🔥 Projects</h3>
 Here are some of the projects I have worked on:
 
--([Individual Project - Henry Dogs: BEST FRIEND FINDER](https://github.com/bosxch/PI-HenryDogs)) (Soon to be deployed)
+-([Individual Project - Henry Dogs: BEST FRIEND FINDER]](https://github.com/bosxch/PI-HenryDogs)) (Soon to be deployed)
 
 -([Final Project - Henry: Vivero Henry]](https://vivero-henry.vercel.app/))
 
