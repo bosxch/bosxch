@@ -1,15 +1,15 @@
 <h1 align="center">Hi! I'm Amparo, a full-stack web developer 👨‍💻</h1>
 <h3 align="center">Working in the IT world since 2023 🚀</h3>
 
-- 🔭 I’m currently **looking for a job**
+- 🔭 I’m currently **looking for a job**.
 
-- 💬 Ask me about **JavaScript and React**
+- 💬 Ask me about **JavaScript and React**.
 
 - 📫 If you're interested in working with me or want to reach me, please feel free to contact me at  **amparocardosobosch@gmail.com**
 
-- 🌱 I’m currently learning and I intend to be an eternal learner. I am constantly exploring new technologies and pushing my own limits.
+- 🌱 I’m currently learning and I intend to be an eternal learner. I’m constantly exploring new technologies and pushing my own limits.
 
-- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR)
+- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR).
 
 <h2 align="left">🌈 What I do</h2>
 I specialize in building custom web applications using modern web development tools and frameworks. From front-end design to back-end architecture, I'm comfortable working on every part of the stack. I'm a big believer in clean code, test-driven development, and continuous deployment.
@@ -19,7 +19,7 @@ I specialize in building custom web applications using modern web development to
 
 -Final Project - Henry: [Vivero Henry](https://vivero-henry.vercel.app/) 🌱
 
--Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://github.com/bosxch/PI-HenryDogs) 🐶 (Soon to be deployed)
+-Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://github.com/bosxch/PI-HenryDogs) (Soon to be deployed) 🐶 
 
 
 <h2 align="left">🌟 My Philosophy</h2>
