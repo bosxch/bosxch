@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Amparo, a full-stack web developer 👨‍💻</h1>
-<h3 align="center">Starting to work in the IT world since 2023 🚀</h3>
+<h3 align="center">Working in the IT world since 2023 🚀</h3>
 
 - 🔭 I’m currently **looking for a job**
 
