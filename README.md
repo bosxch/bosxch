@@ -1,5 +1,5 @@
-<h2 align="center">I'm Amparo, a full-stack web developer 👨‍💻 starting to work in the IT world since 2023 🚀</h2>
-<h3 align="center">from Argentina to the world</h3>
+<h1 align="center">I'm Amparo, a full-stack web developer 👨‍💻</h1>
+<h3 align="center">Starting to work in the IT world since 2023 🚀</h3>
 
 - 🔭 I’m currently **looking for a job**
 
@@ -15,8 +15,9 @@ I specialize in building custom web applications using modern web development to
 ##🔥 Projects
 Here are some of the projects I have worked on:
 
-[Individual Project - Henry Dogs: BEST FRIEND FINDER]([link to project](https://github.com/bosxch/PI-HenryDogs)) (Soon to be deployed)
-[Final Project - Henry: Vivero Henry]([link to project](https://vivero-henry.vercel.app/))
+-[Individual Project - Henry Dogs: BEST FRIEND FINDER]([link to project](https://github.com/bosxch/PI-HenryDogs)) (Soon to be deployed)
+
+-[Final Project - Henry: Vivero Henry]([link to project](https://vivero-henry.vercel.app/))
 
 ##🌟 My Philosophy
 I believe that building great software is a collaborative effort, and I strive to work closely with clients and stakeholders to understand their needs and deliver solutions that exceed their expectations. I'm passionate about building products that are user-friendly, scalable, and maintainable, and I'm always looking for new challenges and opportunities to grow.
