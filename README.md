@@ -36,5 +36,5 @@ I believe that building great software is a collaborative effort, and I strive t
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosxch&show_icons=true&locale=en&layout=compact" alt="bosxch" /></p>
-
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosxch&show_icons=true&locale=en" alt="bosxch" /></p>
