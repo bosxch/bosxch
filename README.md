@@ -7,7 +7,7 @@
 
 - 📫 If you're interested in working with me or want to reach me, please feel free to contact me at  **amparocardosobosch@gmail.com**
 
-- 🌱 I’m currently learning and I intend to be an eternal learner. I’m constantly exploring new technologies and pushing my own limits.
+- 🌱 I’m currently learning and exploring new technologies, pushing my own limits. I want to be an eternal learner.
 
 - ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR).
 
