@@ -13,7 +13,7 @@
 I specialize in building custom web applications using modern web development tools and frameworks. From front-end design to back-end architecture, I'm comfortable working on every part of the stack. I'm a big believer in clean code, test-driven development, and continuous deployment.
 
 <h3 align="left">🔥 Projects</h3>
-Here are some of the projects I have worked on:
+<p>Here are some of the projects I have worked on: </p>
 
 -[Final Project - Henry: Vivero Henry](https://vivero-henry.vercel.app/) 🌱
 
