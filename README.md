@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **JavaScript and React**
 
-- 📫 How to reach me **amparocardosobosch@gmail.com**
+- 📫 If you're interested in working with me or want to reach me, please feel free to contact me at  **amparocardosobosch@gmail.com**
+
+- 🌱 I’m currently learning I am currently learning and I intend to be an eternal learner 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
