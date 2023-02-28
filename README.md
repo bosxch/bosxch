@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-<h1 align="center">I'm Amparo, a full-stack web developer 👨‍💻 starting to work in the IT world since 2023 🚀</h1>
+<h2 align="center">I'm Amparo, a full-stack web developer 👨‍💻 starting to work in the IT world since 2023 🚀</h2>
 <h3 align="center">from Argentina to the world</h3>
 
 - 🔭 I’m currently **looking for a job**
