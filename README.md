@@ -7,7 +7,9 @@
 
 - 📫 If you're interested in working with me or want to reach me, please feel free to contact me at  **amparocardosobosch@gmail.com**
 
-- 🌱  I am currently learning and I intend to be an eternal learner. I am constantly exploring new technologies and pushing my own limits.
+- 🌱 I’m currently learning and I intend to be an eternal learner. I am constantly exploring new technologies and pushing my own limits.
+
+- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR)
 
 <h2 align="left">🌈 What I do</h2>
 I specialize in building custom web applications using modern web development tools and frameworks. From front-end design to back-end architecture, I'm comfortable working on every part of the stack. I'm a big believer in clean code, test-driven development, and continuous deployment.
