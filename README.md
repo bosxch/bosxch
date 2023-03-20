@@ -11,7 +11,7 @@
 
 - ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR).
 
-- 💼 This is My Personal Portfolio, take a look: [My Personal Porfolio](https://amparo-cardoso-bosch.vercel.app/) 
+- 💼 This is My Personal Portfolio, take a look: [Porfolio](https://amparo-cardoso-bosch.vercel.app/) 
 
 <h2 align="left">🌈 What I do</h2>
 I specialize in building custom web applications using modern web development tools and frameworks. From front-end design to back-end architecture, I'm comfortable working on every part of the stack. I'm a big believer in clean code, test-driven development, and continuous deployment.
