@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and exploring new technologies, pushing my own limits. I want to be an eternal learner.
 
-- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR).
+- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR target='_blank').
 
 - 💼 This is My Personal Portfolio, take a look → [Porfolio](https://amparo-cardoso-bosch.vercel.app/) 
 
