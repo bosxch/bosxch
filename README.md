@@ -19,9 +19,9 @@ I specialize in building custom web applications using modern web development to
 <h2 align="left">🔥 Projects</h2>
 <p>Here are some of the projects I have worked on: </p>
 
--Final Project - Henry: [Vivero Henry](https://vivero-henry.vercel.app/) 🌱
+-Final Project - Henry: [Vivero Henry](https://vimeo.com/805350891) 🌱
 
--Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://best-friend-finder.vercel.app/) 🐶 
+-Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://www.linkedin.com/feed/update/urn:li:activity:7040120484209831936/) 🐶 
 
 
 <h2 align="left">🌟 My Philosophy</h2>
