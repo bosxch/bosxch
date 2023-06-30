@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning and exploring new technologies, pushing my own limits. I want to be an eternal learner.
 
-- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR?target=_blank).
+- ✨ I’m from Argentina and my English level is [C1 (Advanced)](https://www.efset.org/cert/sxWNQR).
 
-- 💼 This is My Personal Portfolio, take a look → [Porfolio](https://amparo-cardoso-bosch.vercel.app/?target=_blank).
+- 💼 This is My Personal Portfolio, take a look → [Porfolio](https://amparo-cardoso-bosch.vercel.app/).
 
 <h2 align="left">🌈 What I do</h2>
 I specialize in building custom web applications using modern web development tools and frameworks. From front-end design to back-end architecture, I'm comfortable working on every part of the stack. I'm a big believer in clean code, test-driven development, and continuous deployment.
@@ -19,9 +19,9 @@ I specialize in building custom web applications using modern web development to
 <h2 align="left">🔥 Projects</h2>
 <p>Here are some of the projects I have worked on: </p>
 
--Final Project - Henry: [Vivero Henry](https://vimeo.com/805350891?target=_blank) 🌱
+-Final Project - Henry: [Vivero Henry](https://vimeo.com/805350891) 🌱
 
--Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://www.linkedin.com/feed/update/urn:li:activity:7040120484209831936/?target=_blank) 🐶 
+-Individual Project - Henry Dogs: [BEST FRIEND FINDER](https://www.linkedin.com/feed/update/urn:li:activity:7040120484209831936/) 🐶 
 
 
 <h2 align="left">🌟 My Philosophy</h2>
